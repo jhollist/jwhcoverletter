@@ -1,0 +1,43 @@
+\begin{center}
+$if(fullname)$
+{\fontsize{18}{0}\selectfont\scshape $fullname$ \vspace{-0.1in}}
+$endif$
+\end{center}
+\begin{center}
+$if(email)$
+\href{mailto: $email$}{\faEnvelope\enspace $email$}\hfill
+$endif$
+$if(phone)$
+\href{tel: $phone$}{\faPhone\enspace $phone$}\hfill
+$endif$
+$if(linkedin)$
+\href{https://linkedin.com/in/$linkedin$}{\faLinkedinIn\enspace linkedin.com/in/$linkedin$}\hfill
+$endif$
+$if(citystate)$
+\faMapMarker\enspace $citystate$\\
+$endif$
+%\noindent\rule{6.9in}{0.4pt}
+\noindent\makebox[\linewidth]{\rule{\textwidth}{0.5pt}}
+\end{center}
+\renewcommand{\labelitemi}{-}
+$if(ymd)$
+$ymd$\vspace{0.1in}\\
+$endif$
+$if(recipient)$
+$recipient$\\
+$endif$
+$if(company)$
+$company$\\
+$endif$
+$if(street)$
+$street$\\
+$endif$
+$if(city|state|zip)$
+$city$, $state$ $zip$\vspace{0.1in}\\
+$endif$
+$if(greeting|recipient)$
+\vspace{-0.1in}$greeting$ $recipient$,\vspace{0.1in}\\
+$endif$
+% Body
+\vspace{-0.15in}\setlength\parindent{24pt}
+
