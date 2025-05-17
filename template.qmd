@@ -1,14 +1,11 @@
 ---
-format: 
-  pdf:
-    jwhcoverletter: default
 fontsize: "12pt"
 fullname: "Jeffrey W. Hollister"
 email: "jeff.w.hollister@gmail.com"
 linkedin: "jhollist"
 phone: "401 556 4087"
 citystate: "Wakefield, RI"
-ymd: "`r lubridate::today()`"
+ymd: "r lubridate::today()"
 company: |
   | Center for Education Policy Research
   | Harvard Graduate School of Education
@@ -20,6 +17,14 @@ zip: "02138"
 greeting: "Dear"
 sig: "sig.png"
 closer: "Sincerely"
+format: 
+    jwhcoverletter-pdf: default
+geometry:
+  - top=0.6in
+  - bottom=0.6in
+  - left=0.75in
+  - right=0.75in
+mainfont: Liberation Sans
 ---
 
 I am writing to express my interest in the Senior Data Scientist position with the Harvard Graduate School of Education. I have over 20 years of experience in data analysis, research leadership, and advanced statistical programming in R. I have developed advanced models (e.g. Random Forests) communicated the results of these to multiple audiences. A big portion of my experience has been collaborating with and mentoring others to use modern data science and open science tools in their research workflows.  Given my experience and skills, I am confident you will find that I am well-suited to the role of Senior Data Scientist.
