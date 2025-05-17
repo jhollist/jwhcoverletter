@@ -1,21 +1,20 @@
 ---
-fontsize: "12pt"
-fullname: "Jeffrey W. Hollister"
-email: "jeff.w.hollister@gmail.com"
-linkedin: "jhollist"
-phone: "401 556 4087"
-citystate: "Wakefield, RI"
-ymd: "r lubridate::today()"
+fontsize: "10pt"
+fullname: "Jetpack W. Pappy"
+email: "jetpack.w.pappy@example.com"
+linkedin: "jetpack"
+phone: "111 222 3333"
+citystate: "Quahog, RI"
 company: |
-  | Center for Education Policy Research
-  | Harvard Graduate School of Education
+  | Center for Jetpack Research
+  | Graduate School of Back-based Propolusion
 recipient: "Senior Data Scientist Hiring Committee"
-street: "13 Appian Way"
-city: "Cambridge"
+street: "1 Jet Pack Way"
+city: "Houston"
 state: "MA"
-zip: "02138"
+zip: "00112"
 greeting: "Dear"
-sig: "sig.png"
+sig: ""
 closer: "Sincerely"
 format: 
     jwhcoverletter-pdf: default
@@ -25,14 +24,43 @@ geometry:
   - left=0.75in
   - right=0.75in
 mainfont: Liberation Sans
+colorlinks: false
+date: 03/07/2005
+date-format: long
 ---
 
-I am writing to express my interest in the Senior Data Scientist position with the Harvard Graduate School of Education. I have over 20 years of experience in data analysis, research leadership, and advanced statistical programming in R. I have developed advanced models (e.g. Random Forests) communicated the results of these to multiple audiences. A big portion of my experience has been collaborating with and mentoring others to use modern data science and open science tools in their research workflows.  Given my experience and skills, I am confident you will find that I am well-suited to the role of Senior Data Scientist.
+Ipsum cubilia tempor molestie nam, sed dignissim magna volutpat
+varius imperdiet justo! Cum congue quisque tempus habitant nisi
+sapien pretium ridiculus morbi sollicitudin dictum, suspendisse
+semper vulputate. Velit aliquet fermentum nunc himenaeos
+ultricies, sociis; ad dictum sapien platea. Et at; augue felis
+gravida, eleifend nam penatibus facilisi orci eleifend euismod
+blandit! Taciti dictumst malesuada non cubilia nisi metus
+imperdiet sem!
 
-As a researcher with the U.S. Environmental Protection Agency, I’ve led projects that span the full data lifecycle — from field collection through analysis and publication. My work includes building reproducible data architectures in R that are automated with GitHub Actions. An example of this is an effort I led to provide provisional data access from a water quality study to our project partners and the public.  The end result of this project is available at <https://github.com/usepa/provisional_habs>.
+Dolor feugiat vehicula tellus bibendum nisl, sociosqu eu
+senectus. Himenaeos viverra ultrices habitant facilisi pretium
+tempus tristique diam cursus, praesent himenaeos magnis?
+Fermentum malesuada est quis malesuada at hac massa conubia.
+Neque libero himenaeos nascetur at praesent senectus vehicula.
+Quam taciti sociosqu sociis fames aliquam etiam, lectus quisque
+quam netus praesent aenean; semper egestas vehicula faucibus
+facilisi sapien nisl magna malesuada dapibus?
 
-I am also an advocate and practitioner of open science. Through my roles at EPA and as adjunct faculty at the University of Rhode Island, I’ve trained hundreds of scientists in open-source tools and principles. I co-developed and maintain several R packages used internationally for lake morphometry, and elevation data extraction from APIs (i.e., the `elevatr` pacakge: <https://CRAN.R-project.org/package=elevatr>).
+Adipiscing sodales malesuada tincidunt, orci blandit sapien
+ante integer. Torquent platea, phasellus pellentesque aenean
+posuere. Ridiculus risus fusce, quis aptent sociis massa hac
+tincidunt. Nam egestas integer dapibus magnis cursus quam
+fermentum, habitasse velit gravida? Blandit sodales libero
+vehicula libero mauris, etiam cursus libero et, in lobortis
+metus metus senectus, ante vulputate enim urna sociis torquent.
 
-Beyond technical capabilities, I bring leadership and collaborative experience. I’ve supervised teams, advised on data management strategies, and contributed to agency-level and inter-agency initiatives, including serving on the White House's Office of Science and Technology Policy subgroup on the Year of Open Science. I’m passionate about translating complex datasets into meaningful insights as shown by my publication and presentation record. 
-
-I welcome the opportunity to discuss how I can contribute. Thank you for considering my application.
+Adipiscing a felis, praesent posuere sociis ut a eget facilisis
+nisi? Sollicitudin habitasse quisque tincidunt ad vestibulum
+hac. Accumsan sagittis congue tempus at quis faucibus
+parturient. Dictumst justo sociis montes mus urna netus id
+augue magna pulvinar! Vulputate quisque primis euismod
+scelerisque luctus sodales vel, egestas diam mi – nullam
+himenaeos justo diam nibh sem leo eget sociosqu venenatis
+malesuada blandit tempus dignissim; eget commodo sociis
+sociosqu aliquet mi.

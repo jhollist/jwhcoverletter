@@ -1,6 +1,6 @@
 \begin{center}
 $if(fullname)$
-{\fontsize{18}{0}\selectfont\scshape $fullname$ \vspace{-0.1in}}
+{\fontsize{18}{0}\selectfont\scshape $fullname$}
 $endif$
 \end{center}
 \begin{center}
@@ -20,8 +20,8 @@ $endif$
 \noindent\makebox[\linewidth]{\rule{\textwidth}{0.5pt}}
 \end{center}
 \renewcommand{\labelitemi}{-}
-$if(ymd)$
-$ymd$\vspace{0.1in}\\
+$if(date)$
+$date$\vspace{0.1in}\\
 $endif$
 $if(recipient)$
 $recipient$\\
